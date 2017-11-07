@@ -1,0 +1,15 @@
+div{
+    width: 250px;
+    height: 350px;
+    background-color: lightblue;
+    margin-left: 35px;
+    margin-top: 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+button{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
